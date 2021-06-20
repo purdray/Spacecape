@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c074628237e403e4989b87cf5cee8c76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunShotSound: {instanceID: 0}
+  - prefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
